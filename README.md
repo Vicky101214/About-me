@@ -1,1 +1,6 @@
-# About-me
+- 👋 Hi, I’m Vignesh
+- 👀 I’m passionate about all that is related to data!!
+- 🌱 I’ve completed a course on Data Science and Engineering from Great Lakes Institute of Management
+- 💞️ I’m looking to collaborate on Data Visualization and Analysis, Database Management, Machine Learning and Artificial Intelligence through tools like Python, SQL, Tableau and Microsoft Excel
+- 📫 You can reach me via mail at vigneshsamynathan.10@gmail.com
+- ⚡ Fun Fact: I light up whenever I’m involved with sports or music—they’re what I enjoy the most
